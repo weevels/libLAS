@@ -82,7 +82,7 @@ the header with the following property:
 
 .. code-block:: python
 
-    >>> header = f.header
+    >>> h = f.header
     >>> h
     <liblas.header.Header object at 0x737790>
 
